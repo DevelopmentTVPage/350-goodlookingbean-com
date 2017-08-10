@@ -1,0 +1,12 @@
+#Hugo configuration
+title = "a"
+baseURL = "https:\/\/goodlookingbean.com"
+languageCode = "en-us"
+theme = "tvpage"
+disablePathToLower = "true"
+enableRobotsTXT = true
+
+[params]
+loginId = "1758904"
+subfolder = ""
+cookiedomain = "goodlookingbean.com"
